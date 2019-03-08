@@ -74,7 +74,7 @@
                 // 父组件传入
                 saveUrl: '',
                 delUrl: '/apis/compatibilityTest/deleteDataToMysql/',
-                tableName: '20190218_L12全面屏兼容性测试_陈彬彬_L12_compatibilityReport',
+                tableName: '20190218_xxx_L12_compatibilityReport',
                 //分页
                 currentPage: 4,
                 dataTotal:1024,
